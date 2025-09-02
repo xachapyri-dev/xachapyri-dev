@@ -6,7 +6,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=C%23;Python)](https://git.io/typing-svg)</h2>
 <h2> Я хотел бы знать языки:
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=C%2B%2B;Java;Java+Script)](https://git.io/typing-svg)</h2>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=C%2B%2B;Java;Java+Script;Kotlin;Swift)](https://git.io/typing-svg)</h2>
 
 <h2>Я создаю игры на движке Unity и вот мои проекты на Unity:<br>
   <img width="320" height="280" alt="prev" src="https://github.com/user-attachments/assets/5710cd1f-7291-4b09-a818-2bc3b1e85a6f" />
