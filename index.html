@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background-image: url('deltarune.gif');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            min-height: 100vh;
+            font-family: 'Arial', sans-serif;
+            color: white;
+            overflow: hidden;
+        }
+
+        .overlay {
+            background: rgba(0, 0, 0, 0.8);
+            min-height: 100vh;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        /* Основной контент */
+        .main-content {
+            max-width: 900px;
+            width: 100%;
+        }
+
+        /* Заголовки */
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+
+        h2 {
+            font-size: 1.8em;
+            margin-bottom: 30px;
+            color: #ffd700;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+
+        /* Бейджи технологий */
+        .tech-stack {
+            margin: 30px 0;
+        }
+
+        .tech-stack img {
+            margin: 5px;
+            height: 28px;
+        }
+
+        /* Статистика GitHub */
+        .stats {
+            margin: 40px 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat-img {
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Ссылки */
+        .links {
+            margin: 30px 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .link {
+            display: inline-block;
+            padding: 12px 25px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: bold;
+            transition: transform 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .link:hover {
+            transform: scale(1.05);
+            border-color: #ffd700;
+        }
+
+        /* Печатающийся текст */
+        .typing-text {
+            font-size: 1.4em;
+            color: #ffd700;
+            margin: 20px 0;
+            min-height: 1.5em;
+        }
+
+        /* Информация */
+        .info {
+            margin: 20px 0;
+            line-height: 1.8;
+            font-size: 1.1em;
+        }
+
+        .highlight {
+            color: #ffd700;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay">
+        <div class="main-content">
+            <!-- Заголовок -->
+            <h1>👋 Хачапури dev</h1>
+            <h2>Game Developer & C# Developer</h2>
+            
+            <!-- Анимированный текст -->
+            <div class="typing-text" id="typingText">Создаю игры на Unity и десктоп приложения!</div>
+
+            <!-- Технологии с готовыми бейджами -->
+            <div class="tech-stack">
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+                <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+                <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+                <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms">
+                <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+                <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+            </div>
+
+            <!-- Статистика GitHub -->
+            <div class="stats">
+                <img class="stat-img" src="https://github-readme-stats.vercel.app/api?username=kroshidanielstudio&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+                <img class="stat-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroshidanielstudio&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+            </div>
+
+            <!-- Информация -->
+            <div class="info">
+                <p>🔭 Сейчас работаю над: <span class="highlight">Играми на Unity и десктоп приложениями</span></p>
+                <p>🌱 Изучаю: <span class="highlight">Продвинутые возможности C# и Unity</span></p>
+                <p>⚡ Факт: <span class="highlight">Мои любимые игры Deltarune и Undertale</span></p>
+            </div>
+
+            <!-- Ссылки -->
+            <div class="links">
+                <a href="https://github.com/kroshidanielstudio" class="link" target="_blank">GitHub</a>
+                <a href="https://t.me/Cyxoi_XahapyPi" class="link" target="_blank">Telegram</a>
+                <a href="https://t.me/kroshidanielYouTube" class="link" target="_blank">Telegram Channel</a>
+                <a href="https://gamejolt.com/@Cyxoi_XahapyPi" class="link" target="_blank">GameJolt</a>
+                <a href="https://www.youtube.com/@user-xahapyri_dev" class="link" target="_blank">YouTube</a>
+                <a href="http://k90052gj.beget.tech/" class="link" target="_blank">Website</a>
+                <a href="https://steamcommunity.com/id/Xachapyri_dev" class="link" target="_blank">Steam</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Анимация смены текста
+        const texts = [
+            "Создаю игры на Unity и десктоп приложения!",
+            "C# & Unity Developer", 
+            "Хачапури dev (не компания или бизнес)"
+        ];
+        
+        let currentText = 0;
+        const typingElement = document.getElementById('typingText');
+        
+        function changeText() {
+            currentText = (currentText + 1) % texts.length;
+            typingElement.textContent = texts[currentText];
+        }
+        
+        setInterval(changeText, 3000);
+    </script>
+</body>
+</html>
