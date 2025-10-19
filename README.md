@@ -42,10 +42,10 @@
 <h2 align="center">📈 Статистика GitHub</h2>
 
 <div align="center">
-  <a href="https://github.com/xachapyri-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xachapyri-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" style="border: 0;"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xachapyri-dev&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" style="border: 0;"/>
-  </a>
+  <a href="https://github.com/xachapyri-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xachapyri-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" style="border: 0;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xachapyri-dev&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" style="border: 0;"/>
+  </a>
 </div>
 
 <br>
