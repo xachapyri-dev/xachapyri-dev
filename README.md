@@ -6,18 +6,18 @@
 </p>
 
 <p align="center">
-  <img src="deltarune.gif" alt="Deltarune GIF" width="600" style="border-radius: 15px; border: 3px solid #764ba2;" />
+  <img src="a-hat-in-time-hat-kid.gif" alt="Deltarune GIF" width="600" style="border-radius: 15px; border: 3px solid #764ba2;" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xachapyri-dev&label=Profile%20views&color=0e75b6&style=flat" alt="xachapyri-dev" />
 </p>
 
-- 🔭 Сейчас работаю над **Играми на Unity и десктоп приложениями**
+- Сейчас работаю над **Играми на Unity и десктоп приложениями**
 
-- 🌱 Изучаю **Python, C#, Дизайн и игровые движки: Godot и GameMaker**
+- Знаю C#
 
-- ⚡ Факт: **Хачапури dev (не компания и не бизнес)**
+- Факт: **Хачапури dev (не компания и не бизнес)**
 
 <br>
 
