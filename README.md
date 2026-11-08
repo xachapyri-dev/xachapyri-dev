@@ -66,7 +66,7 @@
   <a href="https://www.youtube.com/@user-xahapyri_dev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="border: 0;"/>
   </a>
-  <a href="https://steamcommunity.com/id/Xachapyri_dev/" target="_blank">
+  <a href="https://steamcommunity.com/id/Xachapyri_dev_gmdv/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" style="border: 0;"/>
   </a>
   <a href="https://ovk.to/id25958" target="_blank">
